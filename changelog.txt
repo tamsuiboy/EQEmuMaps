@@ -1,5 +1,8 @@
 EqEmulator Maps (Started May 4th, 2009)
 -----------------------------------------------------
+==03/30/2019==
+Trust: Updated Kael with more preferred and jumps
+
 ==01/13/2019==
 Trust: Updated Nav for PoEarthA and PoEarthB
 
